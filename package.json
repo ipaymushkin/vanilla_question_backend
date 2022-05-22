@@ -1,0 +1,19 @@
+{
+  "name": "vanilla_question_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipaymushkin/vanilla_question_backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ipaymushkin/vanilla_question_backend/issues"
+  },
+  "homepage": "https://github.com/ipaymushkin/vanilla_question_backend#readme"
+}
