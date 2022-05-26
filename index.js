@@ -5,7 +5,7 @@ const app = express();
 app.use(cors());
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
-const PORT = '5050';
+const PORT = '5002';
 
 const users = {};
 const games = {};
