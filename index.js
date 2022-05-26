@@ -122,6 +122,6 @@ app.post('/statistic/get', function (req, res) {
     return res.json(statistics[id]);
 })
 
-app.listen(PORT, () => {
-    console.log("Server is running in port 5002");
+app.listen(PORT, "127.0.0.1", () => {
+    console.log(`Server is running in port ${PORT}`);
 });
