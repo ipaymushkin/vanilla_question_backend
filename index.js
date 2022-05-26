@@ -123,5 +123,5 @@ app.post('/statistic/get', function (req, res) {
 })
 
 app.listen(PORT, () => {
-    console.log("Server is running in port 5050");
+    console.log("Server is running in port 5002");
 });
